@@ -35,28 +35,28 @@ Lightweight and easy to run locally
 
 ## Tech Stack
 ## Programming Language
-Python
+- Python
 
 ## Libraries / Tools
-Google Gemini API
-NumPy
-Scikit-learn
-Streamlit
-Python Dotenv
+- Google Gemini API
+- NumPy
+- Scikit-learn
+- Streamlit
+- Python Dotenv
 
 ## Running the Project
-Generate image embeddings
-python embed_images.py
-Run semantic search from terminal
-python search.py
-Run the Streamlit interface
-streamlit run app.py
+- Generate image embeddings
+- python embed_images.py
+- Run semantic search from terminal
+- python search.py
+- Run the Streamlit interface
+- streamlit run app.py
 
 ## Learning Outcomes
 This project demonstrates practical concepts used in modern AI retrieval systems:
--Multimodal embeddings
--Vector similarity search
--Semantic retrieval
--AI-powered search pipelines
--API integration with Gemini
--Interactive ML applications using Streamlit
+- Multimodal embeddings
+- Vector similarity search
+- Semantic retrieval
+- AI-powered search pipelines
+- API integration with Gemini
+- Interactive ML applications using Streamlit
