@@ -60,3 +60,13 @@ This project demonstrates practical concepts used in modern AI retrieval systems
 - AI-powered search pipelines
 - API integration with Gemini
 - Interactive ML applications using Streamlit
+
+## Project Structure
+MultiModel-Embeddings/
+── images/                # Dataset images used for search
+── embed_images.py        # Script to generate image embeddings
+── search.py              # Text-to-image similarity search
+── app.py                 # Streamlit web interface
+── requirements.txt
+── .env                   # API key 
+── README.md
