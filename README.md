@@ -6,25 +6,18 @@ This approach enables semantic retrieval, allowing images to be discovered based
 ## Architecture
 User Query
      │
-     ▼
 Text Embedding (Gemini API)
      │
-     ▼
 Query Vector
      │
-     ▼
 Cosine Similarity
      │
-     ▼
 Precomputed Image Embeddings
      │
-     ▼
 Ranked Results
      │
-     ▼
 Most Relevant Image
      │
-     ▼
 Streamlit Interface
 
 ## Features
