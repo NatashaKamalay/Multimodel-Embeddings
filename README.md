@@ -25,13 +25,13 @@ Top Match
 Streamlit UI
 
 ## Features
-Multimodal embeddings (text + images)
-Semantic search instead of keyword matching
-Image retrieval using vector similarity
-Cosine similarity ranking
-Precomputed image embedding storage
-Interactive Streamlit UI
-Lightweight and easy to run locally
+- Multimodal embeddings (text + images)
+- Semantic search instead of keyword matching
+- Image retrieval using vector similarity
+- Cosine similarity ranking
+- Precomputed image embedding storage
+- Interactive Streamlit UI
+- Lightweight and easy to run locally
 
 ## Tech Stack
 ## Programming Language
